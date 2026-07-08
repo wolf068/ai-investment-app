@@ -1,0 +1,2 @@
+ticker,name,shares,avg_cost,market_value,weight_pct,theme_id,thesis
+CASH,Cash,0,0,1500000,100,,No position until signal score triggers review and trade is approved

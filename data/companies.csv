@@ -1,0 +1,6 @@
+company_id,ticker,name,theme_id,exposure,role
+C001,2330.TW,台積電,T001,High,advanced process and advanced packaging
+C002,6669.TW,緯穎,T002,High,AI server ODM / rack-scale systems
+C003,3017.TW,奇鋐,T003,High,thermal module and liquid cooling
+C004,2308.TW,台達電,T003,Medium,power and thermal infrastructure
+C005,2383.TW,台光電,T002,Medium,high-end PCB materials

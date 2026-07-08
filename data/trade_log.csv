@@ -1,0 +1,2 @@
+trade_id,date,action,ticker,weight_pct,theme_id,signal_id,reason
+T0001,2025-01-02,HOLD,CASH,100,,S0001,No qualifying signal; portfolio remains 100% cash
